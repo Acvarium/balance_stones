@@ -9,15 +9,15 @@ func change_highest_score(score):
 	highest_score = score
 	save_game()
 	
-# Збереження гри
+
 func save_game():
 	var savegame = File.new()
 	savegame.open("user://stones_savegame.save", File.WRITE)
 	savegame.store_line({str(0):highest_score}.to_json())
-#	savegame.store_line({str(1):highest_score}.to_json())
+
 	savegame.close()
-#
-# Завантаження гри
+
+
 func load_game():
 	var savegame = File.new()
 	if !savegame.file_exists("user://stones_savegame.save"):
