@@ -3,14 +3,12 @@ const MAX_STAGE = 100
 var highest_score = 0
 
 func _ready():
-	print("ready")
 	load_game()
 
 func change_highest_score(score):
 	highest_score = score
 	save_game()
 	
-
 # Збереження гри
 func save_game():
 	var savegame = File.new()

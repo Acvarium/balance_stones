@@ -91,11 +91,10 @@ func _on_Area2D_body_enter( body ):
 			first_box = body
 		collision_counter += 1
 		if collision_counter > 1:
-			print("Game over")
+
 			get_node("Camera2D/Control/go").show()
 			go = true
 			n = 0
 			get_node("boxes").queue_free()
-			
-	print(body.get_name())
+
 	
