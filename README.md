@@ -1,5 +1,5 @@
 # balance_stones
-The Balance Stones simple 2D game where you have to build a tower using as many block, as possible.  
+The Balance Stones is a simple 2D game where you have to build a tower using as many block, as possible.  
 On desktop you can use your mouse to place randomly-sized blocks on top of each other and make sure the tower doesn't fall apart. 
 On mobile devices you have extra possibility to change direction of in-game gravity by rotating the device in hands.   
 
