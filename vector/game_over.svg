@@ -1,0 +1,1454 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 unknown"
+   sodipodi:docname="game_over.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient5300"
+       inkscape:collect="always">
+      <stop
+         id="stop5296"
+         offset="0"
+         style="stop-color:#0089bb;stop-opacity:1" />
+      <stop
+         id="stop5298"
+         offset="1"
+         style="stop-color:#00ffff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5300"
+       id="linearGradient5294"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-89.154056,152.7904)"
+       x1="-547.12054"
+       y1="77.395836"
+       x2="-546.74255"
+       y2="12.292415" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-2009.1889"
+     inkscape:cy="648.5954"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1055"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#757575;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.18339467;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5004"
+       width="148.16667"
+       height="71.743431"
+       x="-493.13547"
+       y="8.1012621" />
+    <g
+       id="g4918"
+       style="fill:#000000;stroke:#000000;stroke-width:1.1;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566">
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4786"
+         width="8.2853556"
+         height="1.6191343"
+         x="-466.57077"
+         y="22.682095"
+         transform="rotate(-1.7815321)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4788"
+         width="3.4254091"
+         height="1.4882811"
+         x="-466.61404"
+         y="48.929909"
+         transform="rotate(1.2059667)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4790"
+         width="3.5671501"
+         height="4.6774554"
+         x="-470.70322"
+         y="21.135054"
+         transform="rotate(-2.4018099)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.10003415;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4792"
+         width="3.1193969"
+         height="1.7790601"
+         x="-469.09283"
+         y="16.170753"
+         transform="matrix(0.99802485,-0.06282045,0.05169534,0.9986629,0,0)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4794"
+         width="8.1737347"
+         height="1.2520461"
+         x="-465.7139"
+         y="47.393974" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4796"
+         width="3.2836866"
+         height="3.2600465"
+         x="-458.85873"
+         y="60.213814"
+         transform="rotate(2.0259153)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4798"
+         width="5.1735492"
+         height="1.7953868"
+         x="-463.38715"
+         y="31.49168"
+         transform="rotate(-1.3118137)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.10000026;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4800"
+         width="3.1916187"
+         height="3.2404177"
+         x="-454.26178"
+         y="61.877186"
+         transform="matrix(0.99936294,0.03568909,-0.03665973,0.99932781,0,0)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4802"
+         width="11.268415"
+         height="1.4646577"
+         x="-454.93176"
+         y="55.259335"
+         inkscape:transform-center-x="-4.5725714"
+         inkscape:transform-center-y="-0.47751386"
+         transform="rotate(1.4188507)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4804"
+         width="3.068347"
+         height="2.8637905"
+         x="-445.38022"
+         y="66.019463"
+         transform="rotate(2.5903283)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4806"
+         width="3.0068874"
+         height="3.0946801"
+         x="-456.04343"
+         y="40.696705" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4808"
+         width="3.1120398"
+         height="1.4263517"
+         x="-446.38284"
+         y="56.493675"
+         transform="rotate(1.7809945)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4810"
+         width="3.0970855"
+         height="1.4705586"
+         x="-449.30011"
+         y="21.277544"
+         transform="rotate(-2.530644)"
+         inkscape:transform-center-x="0.93345217"
+         inkscape:transform-center-y="0.49757385" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4812"
+         width="3.2167974"
+         height="1.5177847"
+         x="-441.73282"
+         y="90.836906"
+         transform="rotate(6.6568248)"
+         inkscape:transform-center-x="-0.81162986"
+         inkscape:transform-center-y="0.324407" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4814"
+         width="5.0081844"
+         height="1.6300223"
+         x="-454.48605"
+         y="14.146082"
+         inkscape:transform-center-x="1.2675737"
+         inkscape:transform-center-y="-0.7270316"
+         transform="rotate(-2.9539506)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4816"
+         width="3.141927"
+         height="1.3229166"
+         x="-451.30234"
+         y="65.959007"
+         transform="rotate(3.3936194)" />
+      <rect
+         transform="rotate(-177.92709)"
+         y="-54.756062"
+         x="385.93155"
+         height="3.3545387"
+         width="3.2600446"
+         id="rect4818"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="rotate(-177.40967)"
+         y="-58.41597"
+         x="393.75641"
+         height="2.9765625"
+         width="3.1891742"
+         id="rect4820"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="-44.183949"
+         x="387.73965"
+         height="3.3309152"
+         width="3.2364209"
+         id="rect4822"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="scale(-1)" />
+      <rect
+         transform="rotate(-178.21901)"
+         y="-54.521996"
+         x="394.32812"
+         height="1.5591518"
+         width="3.4017856"
+         id="rect4824"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="rotate(-178.17382)"
+         y="-56.499298"
+         x="394.30341"
+         height="1.5591518"
+         width="3.283668"
+         id="rect4826"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="rotate(-176.20479)"
+         y="-71.759033"
+         x="390.6235"
+         height="1.5827754"
+         width="3.3545387"
+         id="rect4828"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="rotate(177.04605)"
+         inkscape:transform-center-y="0.7270279"
+         inkscape:transform-center-x="-1.2675719"
+         y="-27.014961"
+         x="392.65857"
+         height="1.6300223"
+         width="5.0081844"
+         id="rect4830"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="rotate(-176.60638)"
+         y="-68.609604"
+         x="386.09814"
+         height="1.3229166"
+         width="3.141927"
+         id="rect4832"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4834"
+         width="1.6954911"
+         height="1.3424274"
+         x="-394.14737"
+         y="47.431591" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4836"
+         width="11.575521"
+         height="1.5119048"
+         x="-429.06781"
+         y="57.840752"
+         transform="rotate(1.4564531)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4838"
+         width="8.3863468"
+         height="1.5591518"
+         x="-426.83963"
+         y="69.511902"
+         transform="rotate(3.6953106)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4840"
+         width="11.788132"
+         height="1.7245163"
+         x="-428.44525"
+         y="55.603939"
+         inkscape:transform-center-x="-5.6723688"
+         inkscape:transform-center-y="-0.48797369"
+         transform="rotate(2.4735412)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4842"
+         width="3.0830343"
+         height="2.6919029"
+         x="-429.93924"
+         y="45.084843"
+         transform="rotate(0.80596364)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4844"
+         width="3.0257092"
+         height="1.3495969"
+         x="-425.30112"
+         y="79.45565"
+         transform="rotate(4.8002899)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4846"
+         width="3.3739922"
+         height="1.4366677"
+         x="-432.32327"
+         y="26.809172"
+         transform="rotate(-2.4705277)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4848"
+         width="3.283668"
+         height="2.6458333"
+         x="-437.80194"
+         y="82.957848"
+         transform="rotate(4.8214218)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4850"
+         width="1.7481399"
+         height="1.2047991"
+         x="-414.70178"
+         y="148.6516"
+         transform="rotate(13.977542)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4852"
+         width="3.000186"
+         height="1.7953868"
+         x="-441.6254"
+         y="56.90934"
+         transform="rotate(1.6785748)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4854"
+         width="3.4962797"
+         height="1.8898809"
+         x="-435.16873"
+         y="43.82682" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4856"
+         width="3.3545387"
+         height="2.4804688"
+         x="-435.02695"
+         y="46.165546" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4858"
+         width="9.0241814"
+         height="2.6222098"
+         x="-444.88376"
+         y="20.535767"
+         inkscape:transform-center-x="3.988776"
+         inkscape:transform-center-y="-0.48938135"
+         transform="rotate(-2.6725963)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4860"
+         width="2.4568453"
+         height="2.5985863"
+         x="-430.32153"
+         y="69.5065"
+         transform="rotate(3.7833087)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4862"
+         width="5.1735492"
+         height="2.2206101"
+         x="-445.07788"
+         y="15.882397"
+         transform="rotate(-2.9711197)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4864"
+         width="4.7955728"
+         height="1.8190104"
+         x="-432.70081"
+         y="69.581154"
+         transform="rotate(4.057092)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4866"
+         width="3.1655507"
+         height="1.2284226"
+         x="-442.67847"
+         y="45.431789"
+         transform="rotate(1.0330018)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4868"
+         width="3.0238094"
+         height="1.2992932"
+         x="-428.10794"
+         y="85.020508"
+         transform="rotate(6.3351715)" />
+      <rect
+         transform="rotate(1.4564531)"
+         y="56.740791"
+         x="-384.87604"
+         height="1.5119048"
+         width="11.575521"
+         id="rect4870"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="rotate(3.6953106)"
+         y="66.609596"
+         x="-382.63483"
+         height="1.5591518"
+         width="8.3863468"
+         id="rect4872"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="rotate(3.2245547)"
+         inkscape:transform-center-y="-0.41358334"
+         inkscape:transform-center-x="-5.6782758"
+         y="58.772579"
+         x="-383.42596"
+         height="1.7245163"
+         width="11.788132"
+         id="rect4874"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="rotate(0.80596364)"
+         y="44.488796"
+         x="-385.5773"
+         height="2.6342645"
+         width="3.0170212"
+         id="rect4876"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="rotate(4.8002899)"
+         y="75.701424"
+         x="-381.16055"
+         height="1.3495969"
+         width="3.0257092"
+         id="rect4878"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         transform="rotate(-2.4705277)"
+         y="28.671537"
+         x="-388.06247"
+         height="1.4366677"
+         width="3.3739922"
+         id="rect4880"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4882"
+         width="8.0792408"
+         height="1.4174107"
+         x="-408.15341"
+         y="62.033997"
+         inkscape:transform-center-x="1.4459863"
+         inkscape:transform-center-y="-0.035125566"
+         transform="rotate(2.0986106)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4884"
+         width="3.2127976"
+         height="2.4804688"
+         x="-414.39313"
+         y="10.029375"
+         transform="rotate(-4.78085)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4886"
+         width="3.2364209"
+         height="2.3623512"
+         x="-414.14685"
+         y="-2.9318004"
+         transform="rotate(-6.1998006)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4888"
+         width="3.4017856"
+         height="2.4095984"
+         x="-413.47144"
+         y="20.974154"
+         transform="rotate(-2.4998467)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4890"
+         width="8.3390999"
+         height="1.5355282"
+         x="-407.65955"
+         y="59.733593"
+         transform="rotate(3.1697435)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4892"
+         width="3.2364209"
+         height="1.4882812"
+         x="-403.70218"
+         y="39.172989" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4894"
+         width="3.4017856"
+         height="1.2756697"
+         x="-399.82703"
+         y="69.822708"
+         transform="rotate(4.1297784)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4896"
+         width="3.3781624"
+         height="1.5827754"
+         x="-405.81589"
+         y="16.555054"
+         transform="rotate(-3.7135005)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4898"
+         width="3.4254091"
+         height="2.6458333"
+         x="-403.86755"
+         y="44.488277" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4900"
+         width="3.4254091"
+         height="3.0474331"
+         x="-367.42236"
+         y="80.612236"
+         transform="rotate(5.4358736)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4902"
+         width="8.5044641"
+         height="1.2284226"
+         x="-369.78967"
+         y="68.667793"
+         transform="rotate(3.80587)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4904"
+         width="4.7010789"
+         height="1.1811756"
+         x="-365.07178"
+         y="66.963455"
+         transform="rotate(3.3029441)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4906"
+         width="4.8664432"
+         height="1.2284225"
+         x="-366.70779"
+         y="47.370346" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4908"
+         width="4.8900671"
+         height="1.6536458"
+         x="-369.31793"
+         y="-3.1598248"
+         inkscape:transform-center-x="0.98155347"
+         inkscape:transform-center-y="0.33710857"
+         transform="rotate(-7.1332911)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4910"
+         width="3.1183035"
+         height="2.9293153"
+         x="-365.14862"
+         y="39.102119" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4912"
+         width="10.016369"
+         height="1.4646577"
+         x="-371.12479"
+         y="55.390457"
+         transform="rotate(2.8168563)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4914"
+         width="3.4726562"
+         height="1.4410343"
+         x="-375.12616"
+         y="-20.925701"
+         transform="rotate(-9.1925686)" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4916"
+         width="3.3545389"
+         height="3.000186"
+         x="-375.58249"
+         y="12.986966"
+         transform="rotate(-4.2725507)" />
+    </g>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.37264675;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4496"
+       width="8.2853556"
+       height="1.6191343"
+       x="-466.57077"
+       y="22.682095"
+       transform="rotate(-1.7815321)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00d8e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36619174;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4509"
+       width="3.4254091"
+       height="1.4882811"
+       x="-466.61404"
+       y="48.929909"
+       transform="rotate(1.2059667)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00c8e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3757048;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4511"
+       width="3.5671501"
+       height="4.6774554"
+       x="-470.70322"
+       y="21.135054"
+       transform="rotate(-2.4018099)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00a6cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.44376093;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4513"
+       width="3.1193969"
+       height="1.7790601"
+       x="-469.09283"
+       y="16.170753"
+       transform="matrix(0.99802484,-0.06282045,0.05169534,0.9986629,0,0)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#0089bb;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4515"
+       width="8.1737347"
+       height="1.2520461"
+       x="-465.7139"
+       y="47.393974"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00a6cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.30229822;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4517"
+       width="3.2836866"
+       height="3.2600465"
+       x="-458.85873"
+       y="60.213814"
+       transform="rotate(2.0259153)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00c8e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4519"
+       width="5.1735492"
+       height="1.7953868"
+       x="-463.38715"
+       y="31.49168"
+       transform="rotate(-1.3118137)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#0090bf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36893564;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4521"
+       width="3.1916187"
+       height="3.2404177"
+       x="-454.26178"
+       y="61.877186"
+       transform="matrix(0.99936294,0.03568909,-0.03665973,0.99932781,0,0)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00a6cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4523"
+       width="11.268415"
+       height="1.4646577"
+       x="-454.93176"
+       y="55.259335"
+       inkscape:transform-center-x="-4.5725714"
+       inkscape:transform-center-y="-0.47751386"
+       transform="rotate(1.4188507)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#0090bf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.37137571;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4525"
+       width="3.068347"
+       height="2.8637905"
+       x="-445.38022"
+       y="66.019463"
+       transform="rotate(2.5903283)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00c8e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3586241;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4527"
+       width="3.0068874"
+       height="3.0946801"
+       x="-456.04343"
+       y="40.696705"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00c8e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35312259;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4529"
+       width="3.1120398"
+       height="1.4263517"
+       x="-446.38284"
+       y="56.493675"
+       transform="rotate(1.7809945)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00d8e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36406693;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4531"
+       width="3.0970855"
+       height="1.4705586"
+       x="-449.30011"
+       y="21.277544"
+       transform="rotate(-2.530644)"
+       inkscape:transform-center-x="0.93345217"
+       inkscape:transform-center-y="0.49757385"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00e7f1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.37015036;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4533"
+       width="3.2167974"
+       height="1.5177847"
+       x="-441.73282"
+       y="90.836906"
+       transform="rotate(6.6568248)"
+       inkscape:transform-center-x="-0.81162986"
+       inkscape:transform-center-y="0.324407"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4535"
+       width="5.0081844"
+       height="1.6300223"
+       x="-454.48605"
+       y="14.146082"
+       inkscape:transform-center-x="1.2675737"
+       inkscape:transform-center-y="-0.7270316"
+       transform="rotate(-2.9539506)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00e7f1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4537"
+       width="3.141927"
+       height="1.3229166"
+       x="-451.30234"
+       y="65.959007"
+       transform="rotate(3.3936194)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       transform="rotate(-177.92709)"
+       y="-54.756062"
+       x="385.93155"
+       height="3.3545387"
+       width="3.2600446"
+       id="rect4557"
+       style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.37937856;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       transform="rotate(-177.40967)"
+       y="-58.41597"
+       x="393.75641"
+       height="2.9765625"
+       width="3.1891742"
+       id="rect4561"
+       style="opacity:1;vector-effect:none;fill:#00edf5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       y="-44.183949"
+       x="387.73965"
+       height="3.3309152"
+       width="3.2364209"
+       id="rect4563"
+       style="opacity:1;vector-effect:none;fill:#00c8e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="scale(-1)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       transform="rotate(-178.21901)"
+       y="-54.521996"
+       x="394.32812"
+       height="1.5591518"
+       width="3.4017856"
+       id="rect4565"
+       style="opacity:1;vector-effect:none;fill:#00d8e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       transform="rotate(-178.17382)"
+       y="-56.499298"
+       x="394.30341"
+       height="1.5591518"
+       width="3.283668"
+       id="rect4567"
+       style="opacity:1;vector-effect:none;fill:#00c8e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       transform="rotate(-176.20479)"
+       y="-71.759033"
+       x="390.6235"
+       height="1.5827754"
+       width="3.3545387"
+       id="rect4569"
+       style="opacity:1;vector-effect:none;fill:#00b6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       transform="rotate(177.04605)"
+       inkscape:transform-center-y="0.7270279"
+       inkscape:transform-center-x="-1.2675719"
+       y="-27.014961"
+       x="392.65857"
+       height="1.6300223"
+       width="5.0081844"
+       id="rect4571"
+       style="opacity:1;vector-effect:none;fill:#00a6cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       transform="rotate(-176.60638)"
+       y="-68.609604"
+       x="386.09814"
+       height="1.3229166"
+       width="3.141927"
+       id="rect4573"
+       style="opacity:1;vector-effect:none;fill:#00b6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#0090bf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.40225559;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4577"
+       width="1.6954911"
+       height="1.3424274"
+       x="-394.14737"
+       y="47.431591"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#0090bf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4598"
+       width="11.575521"
+       height="1.5119048"
+       x="-429.06781"
+       y="57.840752"
+       transform="rotate(1.4564531)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00c8e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4600"
+       width="8.3863468"
+       height="1.5591518"
+       x="-426.83963"
+       y="69.511902"
+       transform="rotate(3.6953106)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4602"
+       width="11.788132"
+       height="1.7245163"
+       x="-428.44525"
+       y="55.603939"
+       inkscape:transform-center-x="-5.6723688"
+       inkscape:transform-center-y="-0.48797369"
+       transform="rotate(2.4735412)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00d8e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.37593812;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4604"
+       width="3.0830343"
+       height="2.6919029"
+       x="-429.93924"
+       y="45.084843"
+       transform="rotate(0.80596364)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00b6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35567653;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4606"
+       width="3.0257092"
+       height="1.3495969"
+       x="-425.30112"
+       y="79.45565"
+       transform="rotate(4.8002899)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00a6cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35567653;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4608"
+       width="3.3739922"
+       height="1.4366677"
+       x="-432.32327"
+       y="26.809172"
+       transform="rotate(-2.4705277)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#0090bf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4648"
+       width="3.283668"
+       height="2.6458333"
+       x="-437.80194"
+       y="82.957848"
+       transform="rotate(4.8214218)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00a6cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4650"
+       width="1.7481399"
+       height="1.2047991"
+       x="-414.70178"
+       y="148.6516"
+       transform="rotate(13.977542)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00a6cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4652"
+       width="3.000186"
+       height="1.7953868"
+       x="-441.6254"
+       y="56.90934"
+       transform="rotate(1.6785748)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00a6cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4654"
+       width="3.4962797"
+       height="1.8898809"
+       x="-435.16873"
+       y="43.82682"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#0090bf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4656"
+       width="3.3545387"
+       height="2.4804688"
+       x="-435.02695"
+       y="46.165546"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00c8e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4658"
+       width="9.0241814"
+       height="2.6222098"
+       x="-444.88376"
+       y="20.535767"
+       inkscape:transform-center-x="3.988776"
+       inkscape:transform-center-y="-0.48938135"
+       transform="rotate(-2.6725963)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00c8e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4660"
+       width="2.4568453"
+       height="2.5985863"
+       x="-430.32153"
+       y="69.5065"
+       transform="rotate(3.7833087)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00d8e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4662"
+       width="5.1735492"
+       height="2.2206101"
+       x="-445.07788"
+       y="15.882397"
+       transform="rotate(-2.9711197)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00d8e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4664"
+       width="4.7955728"
+       height="1.8190104"
+       x="-432.70081"
+       y="69.581154"
+       transform="rotate(4.057092)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4666"
+       width="3.1655507"
+       height="1.2284226"
+       x="-442.67847"
+       y="45.431789"
+       transform="rotate(1.0330018)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.37447497;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4668"
+       width="3.0238094"
+       height="1.2992932"
+       x="-428.10794"
+       y="85.020508"
+       transform="rotate(6.3351715)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       transform="rotate(1.4564531)"
+       y="56.740791"
+       x="-384.87604"
+       height="1.5119048"
+       width="11.575521"
+       id="rect4670"
+       style="opacity:1;vector-effect:none;fill:#0090bf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       transform="rotate(3.6953106)"
+       y="66.609596"
+       x="-382.63483"
+       height="1.5591518"
+       width="8.3863468"
+       id="rect4672"
+       style="opacity:1;vector-effect:none;fill:#00c8e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       transform="rotate(3.2245547)"
+       inkscape:transform-center-y="-0.41358334"
+       inkscape:transform-center-x="-5.6782758"
+       y="58.772579"
+       x="-383.42596"
+       height="1.7245163"
+       width="11.788132"
+       id="rect4674"
+       style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       transform="rotate(0.80596364)"
+       y="44.488796"
+       x="-385.5773"
+       height="2.6342645"
+       width="3.0170212"
+       id="rect4676"
+       style="opacity:1;vector-effect:none;fill:#00e7f1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.36788863;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       transform="rotate(4.8002899)"
+       y="75.701424"
+       x="-381.16055"
+       height="1.3495969"
+       width="3.0257092"
+       id="rect4678"
+       style="opacity:1;vector-effect:none;fill:#00b6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35567653;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       transform="rotate(-2.4705277)"
+       y="28.671537"
+       x="-388.06247"
+       height="1.4366677"
+       width="3.3739922"
+       id="rect4680"
+       style="opacity:1;vector-effect:none;fill:#00a6cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35567653;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#0090bf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4682"
+       width="8.0792408"
+       height="1.4174107"
+       x="-408.15341"
+       y="62.033997"
+       inkscape:transform-center-x="1.4459863"
+       inkscape:transform-center-y="-0.035125566"
+       transform="rotate(2.0986106)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00a6cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4684"
+       width="3.2127976"
+       height="2.4804688"
+       x="-414.39313"
+       y="10.029375"
+       transform="rotate(-4.78085)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00c8e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4686"
+       width="3.2364209"
+       height="2.3623512"
+       x="-414.14685"
+       y="-2.9318004"
+       transform="rotate(-6.1998006)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00e7f1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38769296;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4688"
+       width="3.4017856"
+       height="2.4095984"
+       x="-413.47144"
+       y="20.974154"
+       transform="rotate(-2.4998467)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4690"
+       width="8.3390999"
+       height="1.5355282"
+       x="-407.65955"
+       y="59.733593"
+       transform="rotate(3.1697435)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00e7f1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.48442614;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4692"
+       width="3.2364209"
+       height="1.4882812"
+       x="-403.70218"
+       y="39.172989"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00d8e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4694"
+       width="3.4017856"
+       height="1.2756697"
+       x="-399.82703"
+       y="69.822708"
+       transform="rotate(4.1297784)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00c8e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4696"
+       width="3.3781624"
+       height="1.5827754"
+       x="-405.81589"
+       y="16.555054"
+       transform="rotate(-3.7135005)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00a6cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4698"
+       width="3.4254091"
+       height="2.6458333"
+       x="-403.86755"
+       y="44.488277"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#0090bf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4700"
+       width="3.4254091"
+       height="3.0474331"
+       x="-367.42236"
+       y="80.612236"
+       transform="rotate(5.4358736)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00b6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.39602762;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4702"
+       width="8.5044641"
+       height="1.2284226"
+       x="-369.78967"
+       y="68.667793"
+       transform="rotate(3.80587)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00a6cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4704"
+       width="4.7010789"
+       height="1.1811756"
+       x="-365.07178"
+       y="66.963455"
+       transform="rotate(3.3029441)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#0090bf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.42447755;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4706"
+       width="4.8664432"
+       height="1.2284225"
+       x="-366.70779"
+       y="47.370346"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00c8e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4708"
+       width="4.8900671"
+       height="1.6536458"
+       x="-369.31793"
+       y="-3.1598248"
+       inkscape:transform-center-x="0.98155347"
+       inkscape:transform-center-y="0.33710857"
+       transform="rotate(-7.1332911)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00d8e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4710"
+       width="3.1183035"
+       height="2.9293153"
+       x="-365.14862"
+       y="39.102119"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4712"
+       width="10.016369"
+       height="1.4646577"
+       x="-371.12479"
+       y="55.390457"
+       transform="rotate(2.8168563)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00e7f1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38599998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4714"
+       width="3.4726562"
+       height="1.4410343"
+       x="-375.12616"
+       y="-20.925701"
+       transform="rotate(-9.1925686)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#00c8e0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38464797;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4716"
+       width="3.3545389"
+       height="3.000186"
+       x="-375.58249"
+       y="12.986966"
+       transform="rotate(-4.2725507)"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/textures/game_ower.png"
+       inkscape:export-xdpi="119.36566"
+       inkscape:export-ydpi="119.36566" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.84396446;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5200"
+       width="33.022701"
+       height="33.022701"
+       x="-766.13849"
+       y="196.79135"
+       inkscape:export-filename="/home/vit/ProjectG70/godot/tower_builder/icon.png"
+       inkscape:export-xdpi="98.453407"
+       inkscape:export-ydpi="98.453407" />
+    <g
+       id="g5340"
+       transform="matrix(0.57458126,0,0,0.57458126,-409.02684,99.504559)">
+      <path
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -616.50207,210.15717 48.08519,-2.13815 -3.0736,14.20654 -43.94251,-1.87089 z"
+         id="path5275"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -614.89849,200.48636 26.72167,-1.46998 -0.80181,8.88245 -26.98894,0.26727 z"
+         id="path5277"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -604.91845,191.33666 27.76226,-1.06908 -2.40543,6.75772 -24.82229,0.93545 z"
+         id="path5279"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -607.48602,182.7634 20.86697,-0.66817 -2.40543,7.12619 -18.19427,-0.93544 z"
+         id="path5281"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m -597.9259,176.29589 20.34194,-2.13816 0.13363,6.78065 -19.94103,0.53453 z"
+         id="path5283"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect5253"
+         d="m -616.50207,210.15717 48.08519,-2.13815 -3.0736,14.20654 -43.94251,-1.87089 z"
+         style="opacity:1;vector-effect:none;fill:#008dbd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect5255"
+         d="m -614.89849,200.48636 26.72167,-1.46998 -0.80181,8.88245 -26.98894,0.26727 z"
+         style="opacity:1;vector-effect:none;fill:#00b7d6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect5257"
+         d="m -604.91845,191.33666 27.76226,-1.06908 -2.40543,6.75772 -24.82229,0.93545 z"
+         style="opacity:1;vector-effect:none;fill:#00c7df;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect5259"
+         d="m -607.48602,182.7634 20.86697,-0.66817 -2.40543,7.12619 -18.19427,-0.93544 z"
+         style="opacity:1;vector-effect:none;fill:#00dbea;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect5261"
+         d="m -597.9259,176.29589 20.34194,-2.13816 0.13363,6.78065 -19.94103,0.53453 z"
+         style="opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <rect
+       y="160.44962"
+       x="-644.77905"
+       height="70.114586"
+       width="17.197916"
+       id="rect5292"
+       style="opacity:1;vector-effect:none;fill:url(#linearGradient5294);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.10000002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  </g>
+</svg>
